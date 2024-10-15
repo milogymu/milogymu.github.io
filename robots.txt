@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://milogymu.github.io/sitemap.html.gz
+Sitemap: https://milogymu.github.io/app/sitemap.html.gz
+Sitemap: https://milogymu.github.io/assets/sitemap.html.gz
+Sitemap: https://milogymu.github.io/css/sitemap.html.gz
+Sitemap: https://milogymu.github.io/includes/sitemap.html.gz
+Sitemap: https://milogymu.github.io/item/sitemap.html.gz
+Sitemap: https://milogymu.github.io/src/sitemap.html.gz
